@@ -6,7 +6,7 @@ import { resolveStaticPaths } from '../utils/static-paths-resolvers';
 
 function Page(props) {
     const { page, site } = props;
-    const { modelName } = page.__metadata;
+    const modelName = page?.__metadata?.modelName;
     if (!modelName) {
         throw new Error(`page has no type, page '${props.path}'`);
     }
@@ -27,6 +27,15 @@ export async function getStaticProps({ params }) {
     const data = allContent();
     const urlPath = '/' + (params.slug || []).join('/');
     const props = await resolveStaticProps(urlPath, data);
+    // Quick fix for missing header/footer, suggested by copilot, to be reviewed
+    // Ensure site.footer is not undefined
+    if (props.site && props.site.footer === undefined) {
+        props.site.footer = null;
+    }
+    // Ensure site.header is not undefined
+    if (props.site && props.site.header === undefined) {
+        props.site.header = null;
+    }
     return { props };
 }
 
