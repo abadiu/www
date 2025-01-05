@@ -14,7 +14,7 @@ sections:
       with web development looking at the most interesting and performant tools
       to effectively build websites.
     actions:
-      - label: Get started
+      - label: Contact me
         altText: ''
         url: /
         showIcon: false
