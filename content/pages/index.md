@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: User experience (UX)
+      text: Result driven web design
       color: text-dark
       styles:
         self:
