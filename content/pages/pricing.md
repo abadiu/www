@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Projects
 slug: pricing
 sections:
   - title:
