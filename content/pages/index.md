@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Result driven web design
+      text: Result driven web development
       color: text-dark
       styles:
         self:
