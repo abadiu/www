@@ -4,15 +4,15 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hi! My name is Adrian and I occasionally build web stuff
+      text: My name is Adrian and I build web stuff
       color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
-      My love for all things web development began in the days of Dreamweaver
-      and, later on, I got to work on a few exciting projects. Nowadays I dabble
-      with web development looking at the most interesting and performant tools
-      to effectively build websites.
+      My journey in web development started during the Dreamweaver era, evolving
+      through various exciting projects that shaped my expertise. Today, I focus
+      on exploring cutting-edge tools and technologies to build
+      high-performance, effective websites.
     actions:
       - label: Contact me
         altText: ''
@@ -33,12 +33,11 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: '@abadiu'
+      label: hello
       color: text-primary
       type: Badge
     elementId: ''
@@ -54,13 +53,13 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Results driven web development
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 500k
@@ -150,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: My philosophy
       color: text-primary
       styles:
         self:
@@ -169,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 'Tools I use '
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo

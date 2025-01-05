@@ -11,7 +11,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wider",
         "type": "ThemeStyleHeading"
     },
     "h2": {
