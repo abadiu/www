@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Hi! My name is Adrian and occasionally build web stuff, mainly with
-        javascript.
+      text: Hi! My name is Adrian and occasionally build web stuff
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
