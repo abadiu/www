@@ -8,7 +8,7 @@
     "fontHeadlines": "serif",
     "h1": {
         "size": "6xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "wider",
