@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      My love for all things web development began in the days of Dreamweaver
-      and, later on, I got to work on a few exciting projects. Nowadays I dabble
-      with web development looking at the most interesting and performant tools
-      to effectively build websites.
+      My journey in web development started during the Dreamweaver era, evolving
+      through various exciting projects that shaped my expertise. Today, I focus
+      on exploring cutting-edge tools and technologies to build
+      high-performance, effective websites.
     actions:
       - label: Contact me
         altText: ''
