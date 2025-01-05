@@ -7,7 +7,7 @@ sections:
       text: Hi! My name is Adrian and occasionally build web stuff
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       My love for all things web development began in the days of Dreamweaver
       and, later on, got to work on a few exciting projects. Nowadays I dabble
