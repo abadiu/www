@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: '@abadiu'
+      label: hello
       color: text-primary
       type: Badge
     elementId: ''
