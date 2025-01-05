@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Projects",
-            "url": "/pricing",
+            "url": "/projects",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
