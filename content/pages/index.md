@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: >
       My love for all things web development began in the days of Dreamweaver
-      and, later on, got to work on a few exciting projects. Nowadays I dabble
+      and, later on, I got to work on a few exciting projects. Nowadays I dabble
       with web development looking at the most interesting and performant tools
       to effectively build websites.
     actions:
