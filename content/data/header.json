@@ -4,15 +4,17 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Projects",
+            "url": "/projects",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
