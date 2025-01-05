@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Technical skills
+      label: My philosophy
       color: text-primary
       styles:
         self:
